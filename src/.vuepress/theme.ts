@@ -31,6 +31,9 @@ export default hopeTheme({
   prevLink: false,
   nextLink: false,
 
+  // 写作日期
+  pageInfo: ["Author", "ReadingTime"],
+
   // 页面元数据
   lastUpdated: false,
   contributors: false,

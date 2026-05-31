@@ -7,6 +7,7 @@ title: DHCP 静态分配
 
 # Route
 dhcp-host=BC:24:11:51:E7:73,192.168.9.254,OpenWrt
+dhcp-host=BC:24:11:1E:9D:D2,192.168.9.253,ImmortalWrt-NET
 
 # HX
 dhcp-host=F0:B6:1E:85:A6:D8,set:proxy,192.168.9.10,7090MFF
@@ -23,7 +24,11 @@ dhcp-host=BC:24:11:3D:CE:AB,192.168.9.32,Tailscale
 dhcp-host=BC:24:11:04:68:FF,192.168.9.33,Storage-mounting
 
 # PVE-S1
-dhcp-host=B0:0C:D1:54:60:93,192.168.9.71,PVE-S1
+dhcp-host=B0:0C:D1:54:60:93,192.168.9.81,PVE-S1
+
+# IoT
+dhcp-host=00:08:00:F5:B2:38,192.168.9.51,HP9002-S1
+dhcp-host=00:96:54:CA:F6:5A,192.168.9.52,HP9002-S2
 
 # 配置选项
 dhcp-option=lan,tag:proxy,3,192.168.9.254

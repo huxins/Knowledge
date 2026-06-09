@@ -4,6 +4,7 @@ title: Wi-Fi 协议与标准
 
 - [WiFi 基础：802.11ac/ax/be 与 WiFi 4、WiFi 5、WiFi 6、WiFi 7 - *liwen01*](https://www.cnblogs.com/liwen01/p/18403897)
 - [WiFi 是怎么传递信息的 - *硬件茶谈*](https://www.bilibili.com/video/BV1LS9eBxEGD)
+- [频段和信道 - *Huawei*](https://support.huawei.com/enterprise/zh/doc/EDOC1000113314/2d2a4a3c)
 
 ## Wi-Fi 4
 

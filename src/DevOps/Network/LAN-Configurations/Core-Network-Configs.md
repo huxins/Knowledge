@@ -1,6 +1,8 @@
 ---
-title: DHCP 静态分配
+title: Core-Network-Configs
 ---
+
+## DHCP 静态分配
 
 ```sh
 # dnsmasq.conf
@@ -8,6 +10,9 @@ title: DHCP 静态分配
 # Route
 dhcp-host=BC:24:11:51:E7:73,192.168.9.254,OpenWrt
 dhcp-host=BC:24:11:1E:9D:D2,192.168.9.253,ImmortalWrt-NET
+
+# Switch
+dhcp-host=id:30b0371b3510-VLAN0001,192.168.9.170,H3C-Switch_0001
 
 # HX
 dhcp-host=F0:B6:1E:85:A6:D8,set:proxy,192.168.9.10,7090MFF

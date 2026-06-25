@@ -30,6 +30,7 @@ index: true
 | [XDR 6050 V1.0](https://www.tp-link.com.cn/product_2467.html) | MT7986B  | MT7975N<br>-           | MT7975PN<br>-          | MT7531AE               | 16MB<br>-512MB  | 4x4:4 | 3×GE                     |
 | [XDR 6060 V1.0](https://www.tp-link.com.cn/product_1622.html) | BCM4908  | BCM43684<br>QPF4216    | BCM43684<br>QPF4516    | BCM54991E<br>RTL8211FS | 256MB<br>1024MB | 4x4:4 | 4×GE<br>1×2.5GE<br>1×SFP |
 | [XDR 6070 V1.0](https://www.tp-link.com.cn/product_2086.html) | IPQ0518  | QCN6024<br>QPF4288     | QCN6024<br>QPF4588     | RTL8221B<br>RTL8367SC  | 16MB<br>512MB   | 4x4:4 | 3×GE<br>1×2.5GE          |
+| [XDR 6078 V1.0](https://www.tp-link.com.cn/product_2690.html) | MT7986B  | MT7975N<br>-           | MT7975PN<br>-          | RTL8221B<br>RTL8367SC  | 16MB<br>-512MB  | 4x4:4 | 2×GE<br>2×2.5GE          |
 | [XDR 6080 V1.0](https://www.tp-link.com.cn/product_2012.html) | IPQ0518  | QCN9074<br>QPF4288     | QCN9074<br>QPF4588     | RTL8367SC              | 16MB<br>512MB   | 4x4:4 | 4×GE<br>1×SFP            |
 | [XDR 6086 V1.0](https://www.tp-link.com.cn/product_2491.html) | MT7986A  | MT7976GN<br>VC5333-21  | MT7976AN<br>QPF4588    | RTL8221B<br>MT7531AE   | 128MB<br>512MB  | 4x4:4 | 1×GE<br>2×2.5GE          |
 | [XDR 6088 V1.0](https://www.tp-link.com.cn/product_2398.html) | MT7986A  | MT7976GN<br>VC5333-21  | MT7976AN<br>QPF4588    | RTL8221B<br>MT7531AE   | 128MB<br>512MB  | 4x4:4 | 4×GE<br>2×2.5GE          |

@@ -1,5 +1,5 @@
 ---
-title: CPE 选型指南
+title: CPE
 ---
 
 ## 4G

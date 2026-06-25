@@ -3,6 +3,12 @@ title: Wireless
 index: true
 ---
 
+- [Wi-Cat](https://wikidevi.wi-cat.ru/)
+- [DeviWiki](https://deviwiki.com/)
+- [TechInfoDepot](https://techinfodepot.shoutwiki.com/wiki/Main_Page)
+- [SmallNetBuilder](https://www.smallnetbuilder.com/)
+- [MAO.FAN](https://mao.fan/)
+
 ## 当前网络设备 WiFi 规格
 
 ### Infrastructure
@@ -19,4 +25,12 @@ index: true
 | ----------------- | ------------------------------------------------------------ | ---------- | -------- | ------ |
 | iPhone 12 Pro Max | 内置                                                         | Wi-Fi 6    | 80       | 2x2    |
 | 7090MFF           | [AX201](https://www.intel.cn/content/www/cn/zh/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html) | Wi-Fi 6    | 160      | 2x2    |
+
+## Mesh
+
+**Mesh** 无法调整如下参数：
+
+- 弱信号剔除
+- 调整信号强度
+- 设置不同信道
 

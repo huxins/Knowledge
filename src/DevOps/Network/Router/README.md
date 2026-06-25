@@ -1,5 +1,70 @@
 ---
 title: Router
-index: false
+index: true
 ---
+
+## 平台及产品线
+
+### NETGEAR
+
+- [NETGEAR](https://www.netgear.com/support/zh-CN/)
+
+### Huawei
+
+- [信息速查](https://info.support.huawei.com/info-finder/vue/search-center/zh/enterprise/switch)
+- [文档中心](https://support.huawei.com/enterprise/zh/doc/index.html)
+- [Dot1q 终结子接口](https://support.huawei.com/enterprise/zh/doc/EDOC1100279001/16f2fffd)
+
+### ZTE
+
+### H3C
+
+- [H3C 路由器](https://www.h3c.com/cn/Service/Document_Software/Document_Center/Routers/)
+- [H3C 分销路由器](https://www.h3c.com/cn/Partner/Business___SMB_Area/Products_Introduction/Router/)
+- [H3C 交换机](https://www.h3c.com/cn/Service/Document_Software/Document_Center/Switches/)
+- Miniware 系统
+- Comware 系统
+
+**交换机命名规则**：
+
+- HI：High-Performance Image，旗舰型。
+- EI：Enhanced Image，增强型。
+- SI：Standard Image，标准型。
+- LI：Lite Image，精简型。
+
+### TP-LINK
+
+- [基本上网设置指导](https://smb.tp-link.com.cn/service/detail_article_3262.html)
+- [单接口设置多网段对接二层交换机设置指导](https://smb.tp-link.com.cn/service/detail_article_3589.html)
+- [如何设置实现一口多拨](https://smb.tp-link.com.cn/service/detail_article_4390.html)
+- [如何通过一个 WAN 口向多条 ADSL 线路进行拨号](https://smb.tp-link.com.cn/service/detail_article_3488.html)
+
+### 锐捷
+
+- [锐捷](https://www.ruijie.com.cn/)
+- [睿易](https://www.ruijiery.com/)
+
+### 磊科
+
+- [Netcore](https://www.netcoretec.com/)
+- [NBR 系列老版云平台操作手册](https://www.netcoretec.com/product-center/commercial/enterprise-routing/1185.html)
+
+## VLAN
+
+**四种 VLAN 形态**：
+
+- Port-based VLAN
+- Tag-based VLAN
+- VLAN-Interface / SVI：解决交换芯片无路由功能。
+- Sub-Interface / Dot1q：解决路由芯片无交换功能，也可用于路由器单臂路由。
+
+```
+1、一个端口既WAN又LAN
+
+需要Sub-Interface
+
+2、多LAN
+
+需要VLAN，且支持多网关（VLAN 接口）
+```
 

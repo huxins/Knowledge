@@ -30,8 +30,6 @@ title: Wi-Fi 5
 
 ## MediaTek
 
-- [PandoraBox Netgear R6700v2/R6800/R6900v2 支持 - *lintel*](https://www.right.com.cn/forum/thread-494214-1-1.html)
-
 | 型号     | SoC      | 2.4GHz       | 5GHz               | Switch | FLA/RAM        | MIMO  | 接口 |
 | -------- | -------- | ------------ | ------------------ | ------ | -------------- | ----- | ---- |
 | R7450    | MT7621AT | MT7615N      | MT7615N<br>QPF4519 | -      | 128MB<br>256MB | 4x4:4 | 5×GE |

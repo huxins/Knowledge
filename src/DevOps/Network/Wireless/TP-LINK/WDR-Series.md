@@ -10,5 +10,6 @@ order: -1
 | [WDR 8610](https://www.tp-link.com.cn/product_913.html)      | MT7621A  | MT7615N      | MT7615N       |          |              |       |      |
 | [WDR 8620](https://www.tp-link.com.cn/product_1122.html)     |          |              |               |          |              |       |      |
 | [WDR 8630](https://www.tp-link.com.cn/product_995.html)      | MT7621A  | MT7615N      | MT7615N       |          |              | 4x4:4 | 3×GE |
+|                                                              |          |              |               |          |              |       |      |
 | WDR8600                                                      |          |              |               |          |              |       |      |
 

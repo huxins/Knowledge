@@ -7,12 +7,11 @@ dir:
 
 - [TL-AC100](https://www.tp-link.com.cn/product_347.html)
 - [TL-AC100 用户手册](https://service.tp-link.com.cn/download/202210/TL-AC100%20V1.0_V2.0_V3.0_V4.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.0.pdf)
-- [TL-AC200 用户手册](https://service.tp-link.com.cn/download/20143/TL-AC200%20V1.0%E3%80%81TL-AC100%20V1.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C1.2.0.pdf)
+- [TL-AC200 用户手册](https://service.tp-link.com.cn/download/202210/TL-AC200%20V1.0_V2.0_V3.0_V4.0_V5.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.0.pdf)
 - [TL-AC300 用户手册](https://service.tp-link.com.cn/download/202210/TL-AC300%20V1.0_V2.0_V3.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.0.pdf)
 - [TL-AC500 用户手册](https://service.tp-link.com.cn/download/202210/TL-AC500%20V1.0_V2.0_V3.0_V4.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.0.pdf)
-- [TL-AC1000 用户手册](https://service.tp-link.com.cn/download/20164/TL-AC1000%20V1.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C1.2.0.pdf)
-- [TL-AC10000 用户手册](https://service.tp-link.com.cn/download/201612/TL-AC10000%201.0_%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_REV1.1.0.pdf)
-- [TL-R483G 用户手册](https://service.tp-link.com.cn/download/20227/TL-R483G%20V4.0_V5.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.0.pdf)
+- [TL-AC1000 用户手册](https://service.tp-link.com.cn/download/202212/TL-AC1000%20V1.0_V2.0_V3.0_V4.0_%E6%97%A0%E7%BA%BF%E6%8E%A7%E5%88%B6%E5%99%A8%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.1.pdf)
+- [TL-AC10000 用户手册](https://service.tp-link.com.cn/download/202212/TL-AC10000%20V1.0_V2.0_V3.0_V4.0_%E6%97%A0%E7%BA%BF%E6%8E%A7%E5%88%B6%E5%99%A8%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%201.0.1.pdf)
 - [AC 主要功能配置实例](https://service.tp-link.com.cn/download/20214/%E3%80%90AC%E6%8E%A7%E5%88%B6%E5%99%A8%E3%80%91AC%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BA%A7%E5%93%81%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%E5%8A%9F%E8%83%BD%E9%85%8D%E7%BD%AE%E5%AE%9E%E4%BE%8B%201.0.0.pdf) | [1.0.1](https://service.tp-link.com.cn/download/20219/%E3%80%90AC%E6%8E%A7%E5%88%B6%E5%99%A8%E3%80%91AC%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BA%A7%E5%93%81%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%E5%8A%9F%E8%83%BD%E9%85%8D%E7%BD%AE%E5%AE%9E%E4%BE%8B%201.0.1.pdf)
 
 ------
@@ -28,23 +27,4 @@ dir:
 - [TP 支持 WiFi 7 一体机及 AP 固件更新贴 - *cyberms*](https://www.chiphell.com/thread-2598175-1-1.html)
 - [AC100 V4.0 升级软件支持管理 WiFi 7 设备 - *cyberms*](https://www.chiphell.com/thread-2597830-1-1.html)
 - [AC100 V4.0 固件更新：20230726_1.3.2 - *cyberms*](https://www.chiphell.com/thread-2549981-1-1.html) | [1.3.2](https://service.tp-link.com.cn/m/detail_download_13146.html) | [1.2.4](https://smb.tp-link.com.cn/service/detail_download_9723.html) | [1.4.3](https://resource.tp-link.com.cn/pc/docCenter/showDoc?id=1730963408141364) | [1.4.0](https://resource.tp-link.com.cn/pc/docCenter/showDoc?id=1712823015832965)
-
-## 经验贴
-
-### 易展接入
-
-- [大神们，请推荐一下 AP + AC 的性价比组合 - *wzbbstx*](https://www.chiphell.com/thread-2545516-1-1.html)
-- [ER2260T 支持管理家用易展路由器了 - *Loyisa*](https://www.chiphell.com/thread-2728062-1-1.html)
-- [TL-7DR6560 成功接入 AC100 4.0 - *花栗鼠*](https://www.right.com.cn/forum/thread-8329449-1-1.html)
-
-### 刷机
-
-- [TL-AC100 Ver3.0 升级 Ver 4.0 - *托普修*](https://www.bilibili.com/opus/959597974311141384)
-- [TP-LINK TL-AC100 V3 无线控制器原厂编程器固件，救砖 - *linianfeng1988*](https://www.right.com.cn/forum/thread-8285913-1-1.html)
-
-### 待处理
-
-- [请教各位软路由 + AC + AP 的设置方法 - *lambilly*](https://www.right.com.cn/forum/thread-8301764-1-1.html)
-- [求教软路由、AC 一体机、AP 解决方案 - *david98*](https://www.right.com.cn/forum/thread-3898399-1-1.html)
-- [获取 TP-Link TL-AC100 v3.0 的 root 权限 - *t123yh's*](https://blog.t123yh.xyz:3/index.php/archives/1228)
 

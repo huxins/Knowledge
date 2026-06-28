@@ -28,3 +28,8 @@ dir:
 - [AC100 V4.0 升级软件支持管理 WiFi 7 设备 - *cyberms*](https://www.chiphell.com/thread-2597830-1-1.html)
 - [AC100 V4.0 固件更新：20230726_1.3.2 - *cyberms*](https://www.chiphell.com/thread-2549981-1-1.html) | [1.3.2](https://service.tp-link.com.cn/m/detail_download_13146.html) | [1.2.4](https://smb.tp-link.com.cn/service/detail_download_9723.html) | [1.4.3](https://resource.tp-link.com.cn/pc/docCenter/showDoc?id=1730963408141364) | [1.4.0](https://resource.tp-link.com.cn/pc/docCenter/showDoc?id=1712823015832965)
 
+------
+
+- [TP-LINK TL-AC100 V3 无线控制器原厂编程器固件，救砖 - *linianfeng1988*](https://www.right.com.cn/forum/thread-8285913-1-1.html)
+- [获取 TP-Link TL-AC100 v3.0 的 root 权限 - *t123yh's*](https://blog.t123yh.xyz:3/index.php/archives/1228)
+

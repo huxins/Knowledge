@@ -1,5 +1,5 @@
 ---
-title: Firmware Version Pipeline
+title: Firmware Version
 ---
 
 ```sh

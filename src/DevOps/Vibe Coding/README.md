@@ -1,5 +1,5 @@
 ---
-title: CICD
+title: Vibe Coding
 index: false
 ---
 
